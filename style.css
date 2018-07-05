@@ -77,6 +77,10 @@ header:before {
     animation: glitch 2s infinite ease;
 }
 
+#mc_embed_signup form {
+    padding: 0;
+}
+
 @keyframes glitch {
     0% {
         background-position: 0 0;
